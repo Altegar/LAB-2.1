@@ -6,7 +6,7 @@
 // Варіант 18
 
 #include <iostream>;
-#include <cmath>;
+#include <cmath>; // бібліотека математичних виразів
 
 using namespace std;
 
