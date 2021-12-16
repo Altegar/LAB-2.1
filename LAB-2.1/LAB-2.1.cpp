@@ -23,6 +23,6 @@ int main()
     cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
 
-    cin.get();
+    cin.get(); // full master
     return 0;
 }
