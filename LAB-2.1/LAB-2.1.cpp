@@ -5,7 +5,7 @@
 // Лінійні програми.
 // Варіант 18
 
-#include <iostream>; // бібліотека вводу/виводу
+#include <iostream>;
 #include <cmath>; // бібліотека математичних виразів
 
 using namespace std;
